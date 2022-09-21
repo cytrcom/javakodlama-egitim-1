@@ -4,12 +4,12 @@ public class Main {
     //Conditions and If Statements | Koşullar(Şartlar) ve İf İfadeleri
 
 	/*
-    Less than: a < b 					      (a, b den küçükse)
+    Less than: a < b 				(a, b den küçükse)
 	Less than or equal to: a <= b 		(a, b den küçük veya eşit ise)
-	Greater than: a > b 				      (a, b den büyükse)
+	Greater than: a > b 			(a, b den büyükse)
 	Greater than or equal to: a >= b 	(a, b den büyük veya eşit ise)
-	Equal to a == b 					        (a, b ye eşit ise) 
-	Not Equal to: a != b 				      (a, b ye eşit değil ise)
+	Equal to a == b 			(a, b ye eşit ise) 
+	Not Equal to: a != b 			(a, b ye eşit değil ise)
     */
         
     //1. Örnek
